@@ -1,0 +1,6 @@
+print("Pleasure to see you again, user!")
+print("Welcome to Isaac Kazlauskas' Number Systems: Hexadecimal to Decimal Homework for AP Principles of Computer Science! Today's thrilling program is brought to you and in part by Slip's Pippin' Chips of Ships! The kind of ship you would love to dip!")
+print("To view the homework answers, please type in the varialbe: 'h'. For one to exit the application, please type in the variable: 'q'.") 
+while True:
+  try:
+    answer = int(input("
