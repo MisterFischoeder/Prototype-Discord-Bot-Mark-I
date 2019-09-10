@@ -1,2 +1,2 @@
-# DiscordBot-1
-Code for a Discord Bot for a sever made from scratch
+# Prototype Discord Bot Mark I
+This is a code for a prototype version of a line of bots to be produced for a variety of discord servers I am currently making. This will be the first line and the basic generic code to start off the mass production of these bots. After learning the basics of python, I decided to use a line of code from the web and give it my own take on it to further the individuality of my servers. 
